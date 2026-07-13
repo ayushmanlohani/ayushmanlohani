@@ -34,6 +34,11 @@ Built with FinBERT · Random Forest · Scikit-Learn · Statsmodels · Pandas
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushmanlohani/ayushmanlohani/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushman_Lohani-0077B5?style=flat-square&logo=linkedin)](www.linkedin.com/in/ayushmanlohani)
