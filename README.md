@@ -44,3 +44,5 @@ Built with FinBERT · Random Forest · Scikit-Learn · Statsmodels · Pandas
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushman_Lohani-0077B5?style=flat-square&logo=linkedin)](www.linkedin.com/in/ayushmanlohani)
 [![Email](https://img.shields.io/badge/Email-aayushmanlohani@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:aayushmanlohani@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ayushmanlohani-181717?style=flat-square&logo=github)](https://github.com/ayushmanlohani)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Full-Stack+%26+ML+Developer;Building+cool+web+apps;Exploring+Machine+Learning)](https://git.io/typing-svg)
