@@ -46,3 +46,5 @@ Built with FinBERT · Random Forest · Scikit-Learn · Statsmodels · Pandas
 [![GitHub](https://img.shields.io/badge/GitHub-ayushmanlohani-181717?style=flat-square&logo=github)](https://github.com/ayushmanlohani)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Full-Stack+%26+ML+Developer;Building+cool+web+apps;Exploring+Machine+Learning)](https://git.io/typing-svg)
+
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=100&section=header&text=Ayushman%20Lohani&fontSize=36&fontColor=E4E4E4&fontAlignY=55)
