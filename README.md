@@ -1,5 +1,8 @@
-# Hi, I'm Ayushman 👋
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=100&section=header&text=Ayushman%20Lohani&fontSize=36&fontColor=E4E4E4&fontAlignY=55)
+
+<p align="center">
+  <img src="./assets/Banner.png" width="100%">
+</p>
+
 I'm a final-year B.Tech CS (AI) student at University of Lucknow, building things at the intersection of **LLMs, NLP, and production ML systems**.
 
 Currently focused on RAG pipelines, financial NLP, and MLOps.
