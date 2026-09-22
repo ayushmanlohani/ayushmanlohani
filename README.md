@@ -1,5 +1,5 @@
 # Hi, I'm Ayushman 👋
-
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=100&section=header&text=Ayushman%20Lohani&fontSize=36&fontColor=E4E4E4&fontAlignY=55)
 I'm a final-year B.Tech CS (AI) student at University of Lucknow, building things at the intersection of **LLMs, NLP, and production ML systems**.
 
 Currently focused on RAG pipelines, financial NLP, and MLOps.
@@ -47,6 +47,6 @@ Built with FinBERT · Random Forest · Scikit-Learn · Statsmodels · Pandas
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Full-Stack+%26+ML+Developer;Building+cool+web+apps;Exploring+Machine+Learning)](https://git.io/typing-svg)
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=100&section=header&text=Ayushman%20Lohani&fontSize=36&fontColor=E4E4E4&fontAlignY=55)
+
 
 <img src="https://skillicons.dev/icons?i=py,cpp,pytorch,fastapi,git,docker,postgres,anaconda&theme=dark" />
