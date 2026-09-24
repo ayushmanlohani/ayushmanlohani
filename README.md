@@ -24,7 +24,7 @@
 [Email](mailto:aayushmanlohani@gmail.com)
 
 ---
-## Snake thingy!!
+## Snake thingy!!!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayushmanlohani/ayushmanlohani/output/github-contribution-grid-snake.svg" />
