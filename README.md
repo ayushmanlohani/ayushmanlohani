@@ -23,6 +23,16 @@
 [GitHub](https://github.com/ayushmanlohani) ·
 [Email](mailto:aayushmanlohani@gmail.com)
 
+<br/>
+
+<a href="https://linkedin.com/in/ayushmanlohani"><img src="https://github.com/dinasquare/dinasquare/blob/main/assets/linkedin.gif" width="36"/></a>
+&nbsp;
+<a href="mailto:aayushmanlohani@gmail.com"><img src="https://github.com/dinasquare/dinasquare/blob/main/assets/mail.gif" width="36"/></a>
+&nbsp;
+<a href="https://ayushmanlohani.vercel.app"><img src="https://github.com/dinasquare/dinasquare/blob/main/assets/globe.gif" width="36"/></a>
+
+<br/>
+
 ---
 ## Snake thingy!!!
 
