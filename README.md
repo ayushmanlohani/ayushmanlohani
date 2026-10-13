@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Final-year CSE (AI) student. Working as a research assistant in Computer Vision and RAG pipelines, alongside independent ML projects. </b>
+  <b>Final-year CSE (AI) student. Working as a research assistant in Computer Vision and RAG pipelines, alongside independent ML projects.</b>
 </p>
 
 ---
