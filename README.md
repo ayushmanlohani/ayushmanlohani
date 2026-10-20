@@ -9,7 +9,7 @@
 ---
 
 
-## Tech Stack
+## Tech Stack:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,mysql,pytorch,sklearn,opencv,fastapi,git,docker,supabase,react,javascript,typescript,tailwind,mongodb,postgres,vercel,github,streamlit" />
