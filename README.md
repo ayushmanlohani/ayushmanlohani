@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ayushmanlohani/ayushmanlohani/blob/main/assets/black_hole.gif" width="100%" alt="Black Hole Banner" />
+  <img src="https://github.com/ayushmanlohani/ayushmanlohani/blob/main/assets/dancing.gif" width="100%" alt="Dancing Banner" />
 </div>
 
 <p align="center">
