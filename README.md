@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://github.com/ayushmanlohani/ayushmanlohani/blob/main/assets/dancing.gif" width="100%" alt="Dancing Banner" />
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=100&section=header&text=Ayushman%20Lohani&fontSize=36&fontColor=E4E4E4&fontAlignY=55" />
