@@ -2,13 +2,29 @@
   <img src="assets/Banner.gif" width="100%" alt="Profile Banner" />
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:161b22&height=100&section=header&text=Ayushman%20Lohani&fontSize=36&fontColor=E4E4E4&fontAlignY=55" />
+<br>
+
+<h3>hi, i'm ayushman</h3>
+
+<p>
+  Final-year CSE (AI) student and research assistant. Currently exploring
+  computer vision, RAG systems, and building things with AI.
 </p>
 
-<p align="center">
-  <b>Final-year CSE (AI) student. Working as a research assistant in Computer Vision and RAG pipelines, alongside independent ML projects.</b>
+<p>
+  · likes understanding how things work under the hood<br>
+  · building AI projects, agents, and ML pipelines<br>
+  · interested in markets, quant finance, and applied AI<br>
+  · usually experimenting with something new
 </p>
+
+<p>
+  <code>LLMs</code> &nbsp;
+  <code>Computer Vision</code> &nbsp;
+  <code>RAG</code> &nbsp;
+  <code>Agentic AI</code>
+</p>
+
 
 ---
 
