@@ -26,34 +26,55 @@
 </p>
 
 
----
+
 
 
 ## Tech Stack:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,pytorch,sklearn,opencv,fastapi,git,docker,supabase,react,javascript,typescript,tailwind,mongodb,postgres,vercel,github,streamlit" />
-</p>
-
----
-## Connect
-
-<!-- [LinkedIn](https://www.linkedin.com/in/ayushmanlohani) ·
-[Portfolio](https://yourportfolio.vercel.app) ·
-[GitHub](https://github.com/ayushmanlohani) ·
-[Email](mailto:aayushmanlohani@gmail.com)  -->
-
 <br/>
 
-<a href="https://linkedin.com/in/ayushmanlohani"><img src="https://github.com/ayushmanlohani/ayushmanlohani/blob/main/assets/linkedin.gif" width="36"/></a>
-&nbsp;
-<a href="mailto:aayushmanlohani@gmail.com"><img src="https://github.com/ayushmanlohani/ayushmanlohani/blob/main/assets/mail.gif" width="36"/></a>
-&nbsp;
-<a href="https://ayushmanlohani.vercel.app"><img src="https://github.com/ayushmanlohani/ayushmanlohani/blob/main/assets/globe.gif" width="36"/></a>
+`// LANGUAGES`
+&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="36" title="Python"/>
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="36" title="C++"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="36" title="JavaScript"/>
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="36" title="TypeScript"/>
 
-<br/>
+`// AI & MACHINE LEARNING`
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" title="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36" title="Scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" title="OpenCV"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" title="Pandas"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="36" title="Hugging Face"/>
 
----
+`// WEB & BACKEND`
+&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="36" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" title="Tailwind CSS"/>
+
+`// DATABASES`
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="36" title="Supabase"/>
+
+`// TOOLS & DEPLOYMENT`
+&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="36" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="36" title="Vercel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="36" title="Streamlit"/>
+
+
+
+
 ## Snake thingy!!!
 
 <p align="center">
