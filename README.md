@@ -25,8 +25,17 @@
   <code>Agentic AI</code>
 </p>
 
+<br><br>
 
+<div align="center">
+  <img src="assets/linkedin.gif" width="45" />
+  &nbsp;&nbsp;
+  <img src="assets/mail.gif" width="45" />
+  &nbsp;&nbsp;
+  <img src="assets/globe.gif" width="45" />
+</div>
 
+<br><br>
 
 
 ## Tech Stack:
