@@ -28,14 +28,21 @@
 <br><br>
 
 <div align="center">
-  <img src="assets/linkedin.gif" width="45" />
+  <a href="https://www.linkedin.com/in/ayushmanlohani/" target="_blank">
+    <img src="assets/linkedin.gif" width="45" />
+  </a>
   &nbsp;&nbsp;
-  <img src="assets/mail.gif" width="45" />
+  <a href="mailto:aayushmanlohani@gmail.com">
+    <img src="assets/mail.gif" width="45" />
+  </a>
   &nbsp;&nbsp;
-  <img src="assets/globe.gif" width="45" />
+  <a href="https://ayushmanlohani.vercel.app/" target="_blank">
+    <img src="assets/globe.gif" width="45" />
+  </a>
 </div>
 
 <br><br>
+
 
 
 ## Tech Stack:
